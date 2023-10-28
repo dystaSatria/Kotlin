@@ -14,7 +14,7 @@ fun main() {
     val food2 = Food("Chicken Satay", "Sweet and Spicy", "Sate Garden", 20.0)
     val food3 = Food("Spaghetti","Barbeque","Indofood",8.0)
 
-    // Displ
+    // Dis
     println("Food 1 Information:")
     food1.displayInfo()
 
