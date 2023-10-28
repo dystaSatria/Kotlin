@@ -9,7 +9,7 @@ class Food(val name: String, val taste: String, val brand: String, val price: Do
 }
 
 fun main() {
-    // Cr
+    //
     val food1 = Food("Fried Rice", "Savory", "Simple Eats", 15.0)
     val food2 = Food("Chicken Satay", "Sweet and Spicy", "Sate Garden", 20.0)
     val food3 = Food("Spaghetti","Barbeque","Indofood",8.0)
