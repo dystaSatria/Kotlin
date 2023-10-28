@@ -12,7 +12,7 @@ fun main() {
     // Create some Food objects
     val food1 = Food("Fried Rice", "Savory", "Simple Eats", 15.0)
     val food2 = Food("Chicken Satay", "Sweet and Spicy", "Sate Garden", 20.0)
-    val food3 = Food("Spaghetti","Barbeque")
+    val food3 = Food("Spaghetti","Barbeque","Indofood",8.0)
 
     // Display food information
     println("Food 1 Information:")
