@@ -8,4 +8,4 @@ Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindar
 - Membuat fungsi baru yang bukan merupakan tugas latihan
 - Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
 
-llklklklkl
+llklklkl
