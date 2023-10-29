@@ -1,10 +1,9 @@
-# Proyek Submission MPK 
+# MPK Submission Project
 
-**Aturan mengerjakan submission**<br>
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
+### Rules for completing the submission
+To ensure that the submission task can be reviewed and accepted successfully, it is advisable to avoid the following:
 
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
-
+- Modifying code within the main() function
+- Changing (unless for working on TODO) or deleting existing code
+- Creating new functions that are not part of the exercise
+- Changing the project structure (deleting, modifying, or moving packages)
