@@ -50,6 +50,8 @@ fun main() {
 
     val name = "Axel"
     val surname = "Gnr"
+    val myname = name / surname //output: AxelGnr
+	
 
 	
 
