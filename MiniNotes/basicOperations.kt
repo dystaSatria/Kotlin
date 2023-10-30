@@ -49,4 +49,9 @@ fun main() {
 
     //String
 
+    val name = "Axel"
+    val surname = "Gnr"
+
+	
+
 }
