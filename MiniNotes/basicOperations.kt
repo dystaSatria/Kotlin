@@ -47,4 +47,6 @@ fun main() {
     var doubleExample = 5.0
     println( doubleExample / 2 )
 
+    //String
+
 }
