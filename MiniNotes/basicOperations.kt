@@ -41,6 +41,10 @@ fun main() {
     println(benimLong)
 
     //Float & Double
-    var 
+    var pi : Float = 3.14f
+    println(pi * 2)
+
+    var doubleExample = 5.0
+    println( doubleExample / 2 )
 
 }
