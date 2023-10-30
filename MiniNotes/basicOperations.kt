@@ -51,6 +51,10 @@ fun main() {
     val name = "Axel"
     val surname = "Gnr"
     val myname = name / surname //output: AxelGnr
+
+    val myNum : String = "10"
+    val othNum = "49"
+    println(myNum+othNum) //Output : 1049
 	
 
 	
