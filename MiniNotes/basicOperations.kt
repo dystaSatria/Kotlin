@@ -39,7 +39,8 @@ fun main() {
     
     var benimLong : Long = 50000000000000
     println(benimLong)
-    
+
+    //Float & Double
     var 
 
 }
